@@ -11,6 +11,6 @@ Usage steps:
 
 2. cd os_check
 
-3. ./os_check.sh
+3. bash os_check.sh
 
 You will see the running status of CPU/Memory/IO/Disk/Network.

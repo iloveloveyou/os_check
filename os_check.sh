@@ -1,7 +1,6 @@
 #!/bin/bash
 
 curr_dir=`dirname $0`
-
 sub_checks_dir="${curr_dir}/check.d"
 
 ls -1 $sub_checks_dir | while read LINE
